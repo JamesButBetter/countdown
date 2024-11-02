@@ -1,3 +1,4 @@
+#REQUIRES PYGAME
 import pygame
 import time
 
